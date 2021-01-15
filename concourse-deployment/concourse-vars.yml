@@ -1,0 +1,12 @@
+---
+deployment_name: concourse
+db_persistent_disk_type: 500GB
+db_vm_type: medium
+external_url:
+external_port: 80
+external_tls_port: 443
+network_name: default
+web_ip:
+web_vm_type: medium
+worker_vm_type: large
+worker_instances: 5

@@ -1,0 +1,19 @@
+---
+cpis:
+  - name: vsphere
+    properties:
+      datacenters:
+      - allow_mixed_datastores: true
+        clusters:
+        - Cluster: {resource_pool: ((vcenter_rp))}
+        datastore_pattern: ((vcenter_ds))
+        disk_path: ((vcenter_disks))
+        name: ((vcenter_dc))
+        persistent_datastore_pattern: ((vcenter_ds))
+        template_folder: ((vcenter_templates))
+        vm_folder: ((vcenter_vms))
+      default_disk_type: ((vcenter_disk_type))
+      host: ((vcenter_host))
+      password: ((vcenter_password))
+      user: ((vcenter_user))
+    type: vsphere

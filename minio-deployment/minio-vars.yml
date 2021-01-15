@@ -1,0 +1,4 @@
+---
+  minio_deployment_name: minio
+  disk_type: 500GB
+  

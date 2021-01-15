@@ -1,0 +1,11 @@
+---
+concourse_version: '6.7.2'
+concourse_sha1: '6a5a21a38bd7f8c544f1721033e17f34ecb9c063'
+bpm_version: '1.1.9'
+bpm_sha1: 'dcf0582d838a73de29da273552ae79ac3098ee8b'
+postgres_version: '43'
+postgres_sha1: 'e44bbe8f8a7cdde1cda67b202e399a239d104db6'
+windows_utilities_version: '0.14.0'
+windows_utilities_sha1: '7886ffd43b84d4eced06560ba601ce1eb97c6616'
+bbr_sdk_version: '1.18.0'
+bbr_sdk_sha1: '0ae9cde649b6c1eaf8f5782f8e46eed55a0b1519'

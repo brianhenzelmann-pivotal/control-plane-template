@@ -1,0 +1,11 @@
+z1_cluster:
+z1_datacenter_name:
+z1_network_name:
+z1_network_gateway:
+z1_network_dns_array: []
+z1_network_range:
+z1_network_reserved_array: []
+z1_static_ips: []
+z1_name:
+z1_cpi:
+z1_resource_pool:

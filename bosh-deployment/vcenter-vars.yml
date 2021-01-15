@@ -1,0 +1,18 @@
+---
+director_name: control-plane-bosh
+internal_cidr:
+internal_gw:
+internal_ip: # Director IP
+dns: 
+network_name:
+vcenter_dc:
+vcenter_ds:
+vcenter_persistent_ds:
+vcenter_ip:
+vcenter_host:
+vcenter_templates:
+vcenter_vms:
+vcenter_disks:
+vcenter_disk_type:
+vcenter_cluster:
+vcenter_rp:
